@@ -1,0 +1,22 @@
+{
+  "name": "cousins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Psymen/cousins.git"
+  },
+  "author": "brian, simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Psymen/cousins/issues"
+  },
+  "homepage": "https://github.com/Psymen/cousins#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
